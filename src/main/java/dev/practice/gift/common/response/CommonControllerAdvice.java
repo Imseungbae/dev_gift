@@ -1,8 +1,8 @@
-package common.response;
+package dev.practice.gift.common.response;
 
 import com.google.common.collect.Lists;
-import common.exception.BaseException;
-import common.interceptor.CommonHttpRequestInterceptor;
+import dev.practice.gift.common.exception.BaseException;
+import dev.practice.gift.common.interceptor.CommonHttpRequestInterceptor;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.catalina.connector.ClientAbortException;
 import org.slf4j.MDC;

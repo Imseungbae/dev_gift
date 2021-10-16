@@ -1,4 +1,4 @@
-package common.util;
+package dev.practice.gift.common.util;
 
 
 import org.apache.commons.lang3.RandomStringUtils;

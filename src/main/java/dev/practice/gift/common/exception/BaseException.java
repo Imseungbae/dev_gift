@@ -1,6 +1,6 @@
-package common.exception;
+package dev.practice.gift.common.exception;
 
-import common.response.ErrorCode;
+import dev.practice.gift.common.response.ErrorCode;
 import lombok.Getter;
 /**
  * BaseException 또는 BaseException 을 확장한 Exception 은

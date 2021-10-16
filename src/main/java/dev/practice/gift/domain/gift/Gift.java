@@ -1,8 +1,8 @@
 package dev.practice.gift.domain.gift;
 
-import common.exception.IllegalStatusException;
-import common.exception.InvalidParamException;
-import common.util.TokenGenerator;
+import dev.practice.gift.common.exception.IllegalStatusException;
+import dev.practice.gift.common.exception.InvalidParamException;
+import dev.practice.gift.common.util.TokenGenerator;
 import dev.practice.gift.domain.AbstractEntity;
 import lombok.*;
 import org.springframework.util.StringUtils;

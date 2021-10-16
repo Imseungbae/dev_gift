@@ -2,7 +2,7 @@ package dev.practice.gift.infrastructure.retrofit;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import common.response.CommonResponse;
+import dev.practice.gift.common.response.CommonResponse;
 import lombok.extern.slf4j.Slf4j;
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;

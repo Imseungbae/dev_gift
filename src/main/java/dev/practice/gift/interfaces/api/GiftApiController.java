@@ -1,6 +1,6 @@
 package dev.practice.gift.interfaces.api;
 
-import common.response.CommonResponse;
+import dev.practice.gift.common.response.CommonResponse;
 import dev.practice.gift.application.GiftFacade;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

@@ -1,4 +1,4 @@
-package common.response;
+package dev.practice.gift.common.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

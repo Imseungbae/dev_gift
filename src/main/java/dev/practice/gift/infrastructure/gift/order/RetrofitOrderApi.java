@@ -1,6 +1,6 @@
 package dev.practice.gift.infrastructure.gift.order;
 
-import common.response.CommonResponse;
+import dev.practice.gift.common.response.CommonResponse;
 import dev.practice.gift.domain.gift.GiftCommand;
 import dev.practice.gift.domain.gift.order.OrderApiCommand;
 import retrofit2.Call;

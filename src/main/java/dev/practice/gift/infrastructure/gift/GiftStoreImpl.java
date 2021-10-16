@@ -1,6 +1,6 @@
 package dev.practice.gift.infrastructure.gift;
 
-import common.exception.InvalidParamException;
+import dev.practice.gift.common.exception.InvalidParamException;
 import dev.practice.gift.domain.gift.Gift;
 import dev.practice.gift.domain.gift.GiftStore;
 import lombok.RequiredArgsConstructor;

@@ -1,7 +1,7 @@
 package dev.practice.gift.infrastructure.gift;
 
-import common.exception.EntityNotFoundException;
-import common.exception.InvalidParamException;
+import dev.practice.gift.common.exception.EntityNotFoundException;
+import dev.practice.gift.common.exception.InvalidParamException;
 import dev.practice.gift.domain.gift.Gift;
 import dev.practice.gift.domain.gift.GiftReader;
 import lombok.RequiredArgsConstructor;

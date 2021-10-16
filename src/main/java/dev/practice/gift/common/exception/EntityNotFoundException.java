@@ -1,6 +1,6 @@
-package common.exception;
+package dev.practice.gift.common.exception;
 
-import common.response.ErrorCode;
+import dev.practice.gift.common.response.ErrorCode;
 
 public class EntityNotFoundException extends BaseException {
 
